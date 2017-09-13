@@ -1,0 +1,2 @@
+# Trading-simulator
+Trading simulator.
