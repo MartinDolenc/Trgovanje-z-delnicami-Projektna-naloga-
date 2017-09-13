@@ -17,6 +17,7 @@ Projektna naloga pri predmetu Uvod v programiranje
 Lista podjeti in njihovih oznak:
 
   Advanced Micro Devices - amd
+  
   Apple - aapl
   Coca Cola - kof
   Facebook - fb
