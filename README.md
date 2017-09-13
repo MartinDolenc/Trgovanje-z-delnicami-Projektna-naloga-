@@ -17,12 +17,22 @@ Projektna naloga pri predmetu Uvod v programiranje
 Lista podjeti in njihovih oznak:
 
   Advanced Micro Devices - amd
+  
   Apple - aapl
+  
   Coca Cola - kof
+  
   Facebook - fb
+  
   Google - googl
+  
   Intel - intc
+  
   Logitech - logi
+  
   Microsoft - msft
+  
   Tesla - tsla
+  
   Twitter - twtr
+  
