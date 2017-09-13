@@ -1,2 +1,4 @@
 # Trgovanje-z-delnicami-Projektna-naloga-
 Projektna naloga
+
+Projektna naloga pri predmetu Uvod v programiranje
